@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">pibal_Keep</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">STMKG</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Setting</string>
+    <string name="menu_slideshow">Tutorial</string>
+
+    <string name="label_azimuth_string">Azmiuth  :</string>
+    <string name="label_pitch_string">Pitch  :</string>
+    <string name="label_roll_string">Roll  :</string>
+    <string name="value_format">%1$.1f\u00B0</string>
+
+    <string name="dataAz1">Az1</string>
+    <string name="dataEl1">El1</string>
+    <string name="dataAz2">Az2</string>
+    <string name="dataEl2">El2</string>
+    <string name="dataAz3">Az3</string>
+    <string name="dataEl3">El3</string>
+    <string name="dataAz4">Az4</string>
+    <string name="dataEl4">El4</string>
+    <string name="dataAz5">Az5</string>
+    <string name="dataEl5">El5</string>
+    <string name="dataAz6">Az6</string>
+    <string name="dataEl6">El6</string>
+    <string name="dataAz7">Az7</string>
+    <string name="dataEl7">El7</string>
+    <string name="dataAz8">Az8</string>
+    <string name="dataEl8">El8</string>
+    <string name="dataAz9">Az9</string>
+    <string name="dataEl9">El9</string>
+    <string name="dataAz10">Az10</string>
+    <string name="dataEl10">El10</string>
+
+    <string name="Pengolahan1">P1</string>
+    <string name="Pengolahan2">P2</string>
+    <string name="Pengolahan3">P3</string>
+    <string name="Pengolahan4">P4</string>
+    <string name="Pengolahan5">P5</string>
+
+    <string name="azimuth">Azimuth :</string>
+    <string name="elevasi">Elevasi :</string>
+    <string name="pencatat_pibal">PENCATAT PIBAL</string>
+    <string name="start">MULAI</string>
+    <string name="finish">SELESAI</string>
+    <string name="pembacaan_1">1.</string>
+    <string name="pembacaan_2">2.</string>
+    <string name="pembacaan_3">3.</string>
+    <string name="pembacaan_4">4.</string>
+    <string name="pembacaan_5">5.</string>
+    <string name="pembacaan_6">6.</string>
+    <string name="pembacaan_7">7.</string>
+    <string name="pembacaan_8">8.</string>
+    <string name="pembacaan_9">9.</string>
+    <string name="pembacaan_10">10.</string>
+
+
+    <!--string Tutorial-->
+    <string name="judul_pemasangan">1. PEMASANGAN PADA THEODOLIT </string>
+    <string name="pemasangan">
+        -letakkan smartphone sejajar dengan silinder theodolit,seperti gambar di bawah ini.\n
+        -disarankan menggunakan stand holder smartphone untuk memudahkan pemasangan agar posisi dapat stabil.\n
+    </string>
+
+
+    <string name="judul_cara_penggunaan">2. CARA PENGGUNAAN APLIKASIt</string>
+    <string name="cara_penggunaan">
+         1.pasangkan smartphone padathodolit.\n
+        2.buka aplikasi.\n
+        3.isi informasi data pengamatan pada menu pengaturan.\n
+        4.jika semua telah terisi klik simpan, dan beralih ke halaman HOME.\n
+        5.jika kondisi pengamatan telah siap maka jalankan aplikasi bersamaan dengan dilepasnya balon.\n
+        6.catat data.\n
+        7.jika pengamatan akan dihentikan, tekan tombol SELESAI,selanjutnya isi alasan pengamatan dihentikan, seperti BB,RA,LIC,atau LL.\n
+        8.data hasil pengamatan dapat disimpan pada penyimpanan local dalam bentuk pdf sebagai pengarsipan..\n
+    </string>
+
+    <string name="judul_ketentuan_lain">3. KETENTUAN LAIN</string>
+    <string name="ketentuan_lain">
+        -pada penggunaaan pertama kali di wajibkan untuk mengetes nilai azimuth dan elevasi dengan cara memutar smartphonemembentuk angka delapan sehinngga terlihat nilai azimuth dan elevasi.
+    </string>
+
+
+    <string name="foto_pemasangan">foto pemasangan</string>
+    <string name="foto_penggunaan">foto penggunaan</string>
+    <string name="foto_ketentuan_lain">foto ketentuan lain</string>
+    <string name="foto_ketentuan_lain_2">foto ketentuan lain 2</string>
+
+</resources>

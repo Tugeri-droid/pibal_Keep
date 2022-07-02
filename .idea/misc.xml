@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/debug/res/drawable/ic_launcher_background.xml" value="0.1475" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/debug/res/drawable/ic_launcher_foreground.xml" value="0.1475" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/debug/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/debug/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.112" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable-v24/buttonbg.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/azimuth_elevasi.xml" value="0.1225" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/background_catat.xml" value="0.1225" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/ic_PibalKeep_background.xml" value="0.108" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/ic_Pibal_Keep_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1475" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1475" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1475" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/ic_logo stmkg_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/ic_logo_pibalkeep_background.xml" value="0.112" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/ic_logo_stmkg_background.xml" value="0.1225" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1475" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/ic_pibalkeep_background.xml" value="0.112" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/logopibal.xml" value="0.108" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/prosess.xml" value="0.1215" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/layout-land/app_bar_main.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/layout/activity_slideshow.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/layout/app_bar_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/layout/fragment_home.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/layout/fragment_setting.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/layout/fragment_slideshow.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/layout/fragment_tutorial.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/layout/nav_header_main.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/menu/activity_main_drawer.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/menu/main.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/mipmap-anydpi-v26/ic_PibalKeep.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/mipmap-anydpi-v26/ic_PibalKeep_round.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/mipmap-anydpi-v26/ic_Pibal_Keep_round.xml" value="0.108" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.112" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.112" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/mipmap-anydpi-v26/ic_logo stmkg.xml" value="0.1225" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/mipmap-anydpi-v26/ic_logo_pibalkeep.xml" value="0.112" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/mipmap-anydpi-v26/ic_logo_pibalkeep_round.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/pibal_Keep/app/src/main/res/mipmap-anydpi-v26/ic_logo_stmkg.xml" value="0.108" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

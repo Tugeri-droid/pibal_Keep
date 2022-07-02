@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pencatatPibal" type="id" />
+    <item name="value_Azimuth" type="id" />
+    <item name="value_Pitch" type="id" />
+
+</resources>
